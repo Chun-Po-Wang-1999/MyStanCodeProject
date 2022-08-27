@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 ciurse.
 
-Watch the *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch the *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1qYhEBaSOEExM_ADaF-elTelib_TT4TRw?usp=sharing)*
 
 ## Project Source Codes:
 * [Boggle game solver](https://github.com/Chun-Po-Wang-1999/MyStanCodeProject/tree/main/StanCode_Projects/boggle_game_solver)
